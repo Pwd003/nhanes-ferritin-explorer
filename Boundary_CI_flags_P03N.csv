@@ -1,0 +1,3 @@
+"group","metric","estimate","se","lower","upper","df","provenance","warning"
+"hb12_lt13","sensitivity",1,0,1,1,15,"Post hoc fixed-model external subgroup; 15-stratum JKn","Boundary estimate with zero JKn variance is NOT proof of perfect sensitivity; report observed n and suppress misleading degenerate CI."
+"bmi_lt25","sensitivity",1,0,1,1,15,"Post hoc fixed-model external subgroup; 15-stratum JKn","Boundary estimate with zero JKn variance is NOT proof of perfect sensitivity; report observed n and suppress misleading degenerate CI."
