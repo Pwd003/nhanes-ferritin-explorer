@@ -1,0 +1,5 @@
+group,metric,estimate,se,lower,upper,df,provenance
+hscrp_le5,auc,0.73933912210398,0.028592060474674,0.678396587798618,0.800281656409341,15,Post hoc fixed-model external subgroup; 15-stratum JKn
+hscrp_le5,sensitivity,0.933979417787091,0.0273530895544216,0.875677687486663,0.992281148087518,15,Post hoc fixed-model external subgroup; 15-stratum JKn
+hscrp_le5,fraction_tested,0.851886622991124,0.0181808169698967,0.813135128922732,0.890638117059516,15,Post hoc fixed-model external subgroup; 15-stratum JKn
+hscrp_le5,missed_per1000,18.8534988481468,7.6589914641718,2.52874497239161,35.1782527239019,15,Post hoc fixed-model external subgroup; 15-stratum JKn
