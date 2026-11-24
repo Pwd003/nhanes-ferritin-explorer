@@ -1,0 +1,55 @@
+test,pass
+three evidence panels initially collapsed,True
+profile 1 A1,True
+profile 1 HB_BASE,True
+profile 1 NO_RACE,True
+profile 1 CBC_ONLY,True
+profile 2 A1,True
+profile 2 HB_BASE,True
+profile 2 NO_RACE,True
+profile 2 CBC_ONLY,True
+profile 3 A1,True
+profile 3 HB_BASE,True
+profile 3 NO_RACE,True
+profile 3 CBC_ONLY,True
+profile 4 A1,True
+profile 4 HB_BASE,True
+profile 4 NO_RACE,True
+profile 4 CBC_ONLY,True
+profile 5 A1,True
+profile 5 HB_BASE,True
+profile 5 NO_RACE,True
+profile 5 CBC_ONLY,True
+profile 6 A1,True
+profile 6 HB_BASE,True
+profile 6 NO_RACE,True
+profile 6 CBC_ONLY,True
+profile 7 A1,True
+profile 7 HB_BASE,True
+profile 7 NO_RACE,True
+profile 7 CBC_ONLY,True
+profile 8 A1,True
+profile 8 HB_BASE,True
+profile 8 NO_RACE,True
+profile 8 CBC_ONLY,True
+profile 9 A1,True
+profile 9 HB_BASE,True
+profile 9 NO_RACE,True
+profile 9 CBC_ONLY,True
+profile 10 A1,True
+profile 10 HB_BASE,True
+profile 10 NO_RACE,True
+profile 10 CBC_ONLY,True
+no race: A1 and HB_BASE suppressed,True
+no race: simpler equations retained,True
+no BMI: only CBC_ONLY,True
+invalid age blocked,True
+invalid hb blocked,True
+invalid mcv blocked,True
+invalid rdw blocked,True
+eligibility enforced,True
+DCA opens,True
+DCA 30% result,True
+no JS errors,True
+no external network requests,True
+mobile no horizontal overflow,True
