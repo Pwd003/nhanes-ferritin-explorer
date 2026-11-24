@@ -1,0 +1,11 @@
+contrast,estimate,se,lower,upper,df,provenance
+A1_vs_A0__delta_auc,0.177287450199756,0.0227008677716996,0.128901695903954,0.225673204495557,15,A0/A1 originally frozen; other models post hoc in development; external independent
+A1_vs_A0__brier_improvement,0.0272460022543426,0.0065445283797488,0.0132966702134239,0.0411953342952613,15,A0/A1 originally frozen; other models post hoc in development; external independent
+A1_vs_HB_BASE__delta_auc,0.0650605153955348,0.0223334586414456,0.0174578751234476,0.112663155667622,15,A0/A1 originally frozen; other models post hoc in development; external independent
+A1_vs_HB_BASE__brier_improvement,0.0170284439264404,0.0063273252443939,0.0035420694096681,0.0305148184432126,15,A0/A1 originally frozen; other models post hoc in development; external independent
+A1_vs_NO_RACE__delta_auc,0.0091406197291396,0.0056498958929482,-0.0029018483043449,0.0211830877626241,15,A0/A1 originally frozen; other models post hoc in development; external independent
+A1_vs_NO_RACE__brier_improvement,0.0033765258079573,0.0014703057633851,0.000242643256756,0.0065104083591585,15,A0/A1 originally frozen; other models post hoc in development; external independent
+NO_RACE_vs_HB_BASE__delta_auc,0.0559198956663952,0.0246671014685776,0.0033432134509186,0.108496577881872,15,A0/A1 originally frozen; other models post hoc in development; external independent
+NO_RACE_vs_HB_BASE__brier_improvement,0.0136519181184831,0.0072533796751264,-0.0018082946938376,0.0291121309308038,15,A0/A1 originally frozen; other models post hoc in development; external independent
+A1_vs_CBC_ONLY__delta_auc,0.0114113550017447,0.0120237717906958,-0.0142167079174483,0.0370394179209378,15,A0/A1 originally frozen; other models post hoc in development; external independent
+A1_vs_CBC_ONLY__brier_improvement,0.0066815187580995,0.0030497486359139,0.0001811334140092,0.0131819041021899,15,A0/A1 originally frozen; other models post hoc in development; external independent
