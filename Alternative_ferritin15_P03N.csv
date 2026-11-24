@@ -1,0 +1,4 @@
+"metric","estimate","se","lower","upper","df","note"
+"auc",0.831237865738874,0.0338387586038367,0.75911225909042,0.903363472387329,15,"Secondary ferritin<15 outcome; ORIGINAL <=30 score only; JKn conditional on fixed model"
+"sensitivity",0.989594062019054,0.0111919457603003,0.965738994314333,1,15,"Secondary ferritin<15 outcome; ORIGINAL <=30 score only; JKn conditional on fixed model"
+"missed_per1000",0.559732055471956,0.588389923483812,0,1.81385549049348,15,"Secondary ferritin<15 outcome; ORIGINAL <=30 score only; JKn conditional on fixed model"
